@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nezuko_dumpling.mk
+    $(LOCAL_DIR)/styx_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    nezuko_dumpling-user \
-    nezuko_dumpling-userdebug \
-    nezuko_dumpling-eng
+    styx_dumpling-user \
+    styx_dumpling-userdebug \
+    styx_dumpling-eng
